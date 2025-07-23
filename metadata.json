@@ -1,0 +1,5 @@
+{
+  "name": "PDF Page Remover",
+  "description": "A web-based tool to visually select and delete pages from a PDF document, then download the modified file.",
+  "requestFramePermissions": []
+}
